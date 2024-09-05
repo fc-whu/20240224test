@@ -4,3 +4,5 @@ https://app.diagrams.net/
 CUDA Tools安装：https://www.cnblogs.com/klchang/p/14353384.html
 
 网页端使用geotiff.js库：https://gitcode.com/gh_mirrors/ge/geotiff.js/overview?utm_source=csdn_github_accelerator&isLogin=1
+
+网页端使用gdal库：https://gitcode.com/gh_mirrors/gd/gdal3.js/overview?utm_source=artical_gitcode&index=bottom&type=card&webUrl&isLogin=1
